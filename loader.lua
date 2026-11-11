@@ -1,1 +1,1 @@
-print("Script is currently disabled")
+loadstring(game:HttpGet("https://pastebin.com/raw/tbLGnrXG"))()
